@@ -1,2 +1,0 @@
-twilio_token = 03a260c7e8e0b2c75265edddbeb4e552
-twilio_SID = AC182e45ef3d90397fc7aef0814526e53b
